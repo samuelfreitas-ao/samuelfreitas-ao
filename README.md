@@ -9,7 +9,7 @@
 <section>
 <p align="middle">
 <a herf="">
-<img src="https://readme-typing-svg.herokuapp.com?font=firecode&color=FFFFFF&center=true&vCenter=true&lines=Web+%26+Mobile+Apps++Developer;React+%26+React+Native+Apps;Laravel+Tailwindcss+|+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=firecode&color=FFFFFF&center=true&vCenter=true&lines=Web+%26+Mobile+Apps++Developer;React+%26+React+Native+Apps;Laravel framework+|+Tailwindcss+|+Bootstrap" />
 </a>
 </p>
 
