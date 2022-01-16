@@ -18,11 +18,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfreitas-ao&layout=compact&langs_count=7&theme=omni"/>
 </a>
 </p>
-<!--
+
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelfreitas-ao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </p>
--->
+
 </section>
 </main>
 
