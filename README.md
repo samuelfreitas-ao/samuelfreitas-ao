@@ -44,7 +44,7 @@
 - **Integração DocuWare & Power BI:** Implementação de uma solução backend (Laravel) que integra o DocuWare (Sistem de Gestão Documental) com o Power BI para a análise de dados em tempo real, permitindo a recuperação eficiente de documentos e dados e oferecendo insights valiosos para a tomada de decisões.
 
 ### 📫 Contato
-- https://samuelfreitas.vercel.app
+- [www.freitas.ao](https://samuelfreitas-ao.github.io?utm_source=github&utm_medium=readme&utm_campaign=portifolio)
 - <a href="https://wa.me/message/BEZBIUEUNXEZH1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 - <a href="https://www.linkedin.com/in/samuelfreitas-ao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
